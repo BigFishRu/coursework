@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Zulfat.jpg</file>
+        <file>image/burgan.jpg</file>
+        <file>image/zulfat.0ORpn.jpg</file>
+        <file>image/burgan.GysTD.jpg</file>
+        <file>image/jojo.BHHtF.jpg</file>
+        <file>css.css</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,62 @@
+QMainWindow{
+background-color: #33383D;
+
+}
+QListWidget{
+background-color: #000000;
+color: white;
+}
+
+
+QDialog{
+background-color: #33383D;
+}
+
+QLine{
+    background-color: white;
+    color: white;
+    background-color: rgb(255, 255, 255);
+}
+QWidget{
+background-color: #33383D;
+}
+
+QPushButton{
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 5px 5px;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  background : #8d8d8d;
+}
+QPushButton#exit{
+    color: RED;
+    border: medium none;
+     background-image: none;
+     background: transparent;
+     float: left;
+     background-color: transparent;
+}
+
+
+QPushButton:hover{
+  background: rgba(255,255,255,.2);}
+
+QPushButton:pressed{
+}
+
+QLabel{
+ color: white;
+
+}
+QProgressBar{
+ color: white;
+}
+QLineEdit{
+ color: white;
+}
+QRadioButton{
+ color: white;
+}
